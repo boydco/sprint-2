@@ -38,3 +38,5 @@ HSL = (.08, 59%, 53%)
 rgb(205,133,63)
 hex = #CD853F
 name = Tan 3
+
+A in RGBA or HSLA stands for alpha, which is the opacity of the colors in the RGB or HSL.
